@@ -1,0 +1,7 @@
+riot:
+  token: RGAPI-c843c250-325b-49b4-8cf2-676ef9b092c1
+
+projects:
+  riot:
+    api:
+      api-url: https://asia.api.riotgames.com
